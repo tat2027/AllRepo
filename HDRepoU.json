@@ -3,7 +3,7 @@
   "description": "MovieBox, Netflix, Hotstar & Prime Video",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/refs/heads/builds/plugins.json"
+    "https://github.com/hexated/cloudstream-extensions-hexated/blob/builds/plugins.json"
   ],
   "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsIBQQfENRSes_uJmkGZKCeHbpGzSEtIXHEorLm4rLQw-12IrLOI3iOCA&s=10"
 }
