@@ -1,0 +1,9 @@
+{
+  "name": "Faisal CH",
+  "description": "MovieBox, Netflix, Hotstar & Prime Video",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/bachig26/cloudstream-extensions-zh/refs/heads/builds/plugins.json"
+  ],
+  "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsIBQQfENRSes_uJmkGZKCeHbpGzSEtIXHEorLm4rLQw-12IrLOI3iOCA&s=10"
+}
