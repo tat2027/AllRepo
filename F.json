@@ -1,0 +1,18 @@
+{
+  "name": "Master CloudStream Repo",
+  "description": "All-in-one merged extensions repository",
+  "manifestVersion": 1,
+  "repos": [
+    "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/repo.json",
+    "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CS.json",
+    "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/builds/CNC.json",
+    "https://raw.githubusercontent.com/rockhero1234/cinephile/refs/heads/builds/repo.json",
+    "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/repo.json",
+    "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/repo.json",
+    "https://raw.githubusercontent.com/FlummoxGamer/FLUMMOX-Repo/builds/repo.json",
+    "https://raw.githubusercontent.com/Faisal0786/Desi/main/repo.json",
+    "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/refs/heads/builds/Netflix.json",
+    "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/builds/repo.json"
+  ]
+}
+ 
