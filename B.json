@@ -1,12 +1,4 @@
-{
-  "name": "Unified CloudStream Master Repository",
-  "description": "Community master repository auto-merged across 11+ repositories (218 plugins from 11 repositories)",
-  "manifestVersion": 2,
-  "iconUrl": "https://raw.githubusercontent.com/LagradOst/CloudStream-3/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
-  "pluginLists": [
-    "https://raw.githubusercontent.com/tat2027/AllRepo/refs/heads/main/B.json"
-  ],
-  "plugins": [
+
     {
       "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/18+.cs3",
       "status": 1,
