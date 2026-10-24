@@ -4,7 +4,7 @@
   "manifestVersion": 2,
   "iconUrl": "https://raw.githubusercontent.com/LagradOst/CloudStream-3/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
   "pluginLists": [
-    "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/cloudstream-master-repo/main/plugins.json"
+    "https://raw.githubusercontent.com/tat2027/AllRepo/refs/heads/main/B.json"
   ],
   "plugins": [
     {
