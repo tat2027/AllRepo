@@ -1,0 +1,9 @@
+{
+  "name": "OK",
+  "description": "MovieBox, Netflix, Hotstar & Prime Video \u2014 all in one",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/nepassasin47/MoviesDrive/refs/heads/builds/plugins.json"
+  ],
+  "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP2VTUV3KUKssnpDsmZqLH_XqDFQ4mpK9hOaB-hgl82Q&s=10"
+}
