@@ -1,8 +1,9 @@
-[
-    {
-        "url": "https://raw.githubusercontent.com/recloudstream/extensions/master/repo.json",
-        "verified": true
-    },
+{
+  "name": "My Megarepo",
+  "description": "Custom aggregated repositories",
+  "iconUrl": "https://raw.githubusercontent.com/tat2027/AllRepo/main/icon.png",
+  "repositories": [
+    "https://raw.githubusercontent.com/recloudstream/extensions/master/repo.json",
     "https://raw.githubusercontent.com/self-similarity/MegaRepo/builds/repo.json",
     "https://raw.githubusercontent.com/CranberrySoup/AniyomiCompatExtension/master/repo.json",
     "https://raw.githubusercontent.com/Gian-Fr/ItalianProvider/builds/repo.json",
@@ -36,4 +37,5 @@
     "https://cs.eclipsia.dpdns.org/repo.json",
     "https://github.com/aslafy-z/cloudstream-plugins/releases/download/catalog-stable/repo.json",
     "https://raw.githubusercontent.com/sagemoon1996/cloudstream-repo/builds/repo.json"
-]
+  ]
+}
