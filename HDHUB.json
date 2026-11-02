@@ -45,7 +45,7 @@
     "fileHash": "sha256-87d9a3533f64994a5af6faa905b112ba3b79214f8d4b2e707c51b180287e9789",
     "fileSize": 90160
   },
-  {
+   {
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/moviebox.png",
     "fileHash": "sha256-25761f25c489303480b4d94cb66e5793eed94c53eb1f5dedab6cb20e99b0b23c",
     "apiVersion": 1,
@@ -67,7 +67,7 @@
     "name": "MovieBox",
     "pluginClassName": "com.allforu.StreamBoxPlugin"
   },
-  {
+   {
     "version": 6,
     "internalName": "AllOtt",
     "name": "AllOtt",
@@ -111,7 +111,7 @@
     "fileHash": "sha256-9013b566ee66cd761dc9fe327996aeca7f27370cd1b278fa5cab9cf1472f9256",
     "repositoryName": "Phisher Repo"
   },
-  {
+   {
     "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/HdMovie2.cs3",
     "status": 3,
     "version": 14,
@@ -155,7 +155,7 @@
     "fileHash": "sha256-115e68963b012d736422d091153a5f6969909f7ba3e55d381317428bdf067381",
     "repositoryName": "Phisher Repo"
   },
-  {
+   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Bollyflix.cs3",
     "status": 1,
     "version": 33,
@@ -244,7 +244,7 @@
     "fileHash": "sha256-82519a35071acab4da92b1beb135a6c8212645e4b68d5fbc1f3dd7a72895de34",
     "repositoryName": "Phisher Repo"
   },
-  {
+   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Hindmoviez.cs3",
     "status": 1,
     "version": 17,
@@ -266,4 +266,4 @@
     "fileHash": "sha256-19dc763a3506d86ab4750c8490a2e8a3f80e56c55e962c0620b06fe90a1b756a",
     "repositoryName": "Phisher Repo"
   },
-]
+],
