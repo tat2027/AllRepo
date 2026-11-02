@@ -21,7 +21,7 @@
     "fileHash": "sha256-86dc40b3832e36cd8ecb1919543952989d045fe2ccd7e1debe48db8dbc14333f",
     "fileSize": 33367
   },
-   {
+  {
     "version": 15,
     "internalName": "NetNaija",
     "name": "AllDubz",
@@ -45,7 +45,7 @@
     "fileHash": "sha256-87d9a3533f64994a5af6faa905b112ba3b79214f8d4b2e707c51b180287e9789",
     "fileSize": 90160
   },
-   {
+  {
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/moviebox.png",
     "fileHash": "sha256-25761f25c489303480b4d94cb66e5793eed94c53eb1f5dedab6cb20e99b0b23c",
     "apiVersion": 1,
@@ -67,7 +67,7 @@
     "name": "MovieBox",
     "pluginClassName": "com.allforu.StreamBoxPlugin"
   },
-   {
+  {
     "version": 6,
     "internalName": "AllOtt",
     "name": "AllOtt",
@@ -89,7 +89,7 @@
     "fileHash": "sha256-cbf1b4f499dd6c24679370b0982909407e366a711542c2e42e0865969c4c6954",
     "fileSize": 143691
   },
-    {
+  {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/HDhub4u.cs3",
     "status": 1,
     "version": 57,
@@ -111,7 +111,7 @@
     "fileHash": "sha256-9013b566ee66cd761dc9fe327996aeca7f27370cd1b278fa5cab9cf1472f9256",
     "repositoryName": "Phisher Repo"
   },
-   {
+  {
     "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/HdMovie2.cs3",
     "status": 3,
     "version": 14,
@@ -133,7 +133,7 @@
     "fileHash": "sha256-bf8085c54ea4a2a6c1e9a6317d3bd5bb4e3dc5d83e25e0be419d8c1e63b3990d",
     "repositoryName": "Xtron Repo"
   },
-   {
+  {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/FourKHDHub.cs3",
     "status": 1,
     "version": 41,
@@ -155,7 +155,7 @@
     "fileHash": "sha256-115e68963b012d736422d091153a5f6969909f7ba3e55d381317428bdf067381",
     "repositoryName": "Phisher Repo"
   },
-   {
+  {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Bollyflix.cs3",
     "status": 1,
     "version": 33,
@@ -179,7 +179,7 @@
     "fileHash": "sha256-507b486b195b98903b0cec0fca811c27fdff6cf200f6f94a662c64dd8abe0e59",
     "repositoryName": "CSX (Megix)"
   },
-    {
+  {
     "iconUrl": "https://i.ibb.co/nMdxZgkR/8-CM3-5q-ARZYELDWg6-Erqfg-NYpo-Sdh-Yw-HRB5-CMhf-Vgg-Ygn-PMHCVYWQf-EEJMt9gwd6-EFP5t-LYgd-LAm-Zerm-KCX.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/rockhero1234/cinephile",
@@ -200,7 +200,7 @@
     "name": "Cinevood",
     "repositoryName": "Cinephile"
   },
-    {
+  {
     "iconUrl": "https://cinevood.chat/cinevood-logo.webp",
     "fileHash": "sha256-dc4653a8fc4243eddffda96ffdf574f1038113b04d002dc1e0afd169397a3365",
     "apiVersion": 1,
@@ -222,7 +222,7 @@
     "name": "CineVoodProvider",
     "repositoryName": "CNC Repo (All Language)"
   },
-   {
+  {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Desicinemas.cs3",
     "status": 1,
     "version": 19,
@@ -244,7 +244,7 @@
     "fileHash": "sha256-82519a35071acab4da92b1beb135a6c8212645e4b68d5fbc1f3dd7a72895de34",
     "repositoryName": "Phisher Repo"
   },
-   {
+  {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Hindmoviez.cs3",
     "status": 1,
     "version": 17,
@@ -265,5 +265,5 @@
     "apiVersion": 1,
     "fileHash": "sha256-19dc763a3506d86ab4750c8490a2e8a3f80e56c55e962c0620b06fe90a1b756a",
     "repositoryName": "Phisher Repo"
-  },
-],
+  }
+]
