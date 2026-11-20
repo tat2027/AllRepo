@@ -1,6 +1,6 @@
 {
-  "name": "Ott Platforms",
-  "description": "All Ott Platforms in One",
+  "name": "OTT Platforms",
+  "description": "All OTT Platforms in One",
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/tat2027/repo14/refs/heads/main/plugins.json"
